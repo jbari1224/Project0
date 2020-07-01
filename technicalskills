@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="Project0_StyleSheet.css" />
+</head>
+<body>
+    <header>
+        <h1>Technical Skills</h1>
+    </header>
+    <nav>
+        <a href="experience.html">Experience</a> |
+        <a href="education.html">Education</a> |
+        <a href="index.html">Professional Summary</a>
+    </nav>
+    <Section>
+        <h2 id="certification">Certifications: </h2>
+        <ul>
+            <li>A+, MCP (workstation & server win2k)</li>
+        </ul>
+        <h2 id="systems">Operating Systems</h2>
+        <ul>
+            <li>MS-DOS, MS-Windows, Windows NT 4.0, Windows 2000, Window, Red Hat,
+                Linux9.0 (University of Chicago in different projects), UNIX, Window7
+            </li>
+        </ul>
+        <h2 id="software">Software</h2>
+        <ul>
+            <li>Excel, WordPerfect, MS-Word, MS-Access, SQL, COPS, PGP, TEMS4.0,
+                PowerPoint, MS Office 2016, Visual Studio, Dreamweaver,
+            </li>
+        </ul>
+        <h2 id="hardware">Hardware</h2>
+        <ul>
+            <li>IBM and Compactable Macintosh Laptop</li>
+        </ul>
+    </Section>
+</body>
+</html>
