@@ -1,0 +1,38 @@
+body {background-color:lightyellow; 
+      width:100%;
+}
+table, th, td{border:none;}
+th,td{padding: 10px;}
+thead th{
+    background-color:midnightblue;
+    color:white;
+    vertical-align:bottom;
+}
+tbody th{
+    background-color:mediumvioletred;
+    color:white;
+}
+td{
+    background-color:mistyrose;
+    text-align:center;
+}
+#edu{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:x-large;
+    font-weight:bold;
+}
+header{
+    background-color:powderblue;
+    text-align:center;
+    height:50px;
+}
+nav{
+    text-align:center;
+}
+section > h2{
+    background-color: palegreen;
+}
+.exp{
+    text-align:left;
+    background-color:palegreen;
+}
